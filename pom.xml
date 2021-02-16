@@ -72,7 +72,7 @@
    <repository>
      <id>github</id>
      <name>GitHub iishwaryark Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/iishwaryark/expert</url>
+     <url>https://maven.pkg.github.com/iishwaryark/legendary</url>
    </repository>
   </distributionManagement>
 
